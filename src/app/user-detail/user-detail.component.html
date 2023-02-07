@@ -1,0 +1,60 @@
+<mat-card class="example-card text-center">
+  <mat-card-header class="justify-content-center">
+    <div mat-card-avatar class="example-header-image"></div>
+    <mat-card-title>{{userDetails.firstName}} {{userDetails.lastName}}</mat-card-title>
+    <mat-card-subtitle>{{userDetails.email}}</mat-card-subtitle>
+  </mat-card-header>
+
+  <mat-card-content>
+    <mat-list>
+      <mat-list-item>
+        <div matLine>
+          Mobile Number :
+          <button mat-button>{{userDetails.mobile}}</button>
+        </div>
+      </mat-list-item>
+
+      <mat-list-item>
+        <div matLine>
+          Gender :
+          <button mat-button>{{userDetails.gender}}</button>
+        </div>
+      </mat-list-item>
+      <mat-list-item>
+        <div matLine>
+          Package :
+          <button mat-button>{{userDetails.package}}</button>
+        </div>
+      </mat-list-item>
+      <mat-list-item>
+        <div matLine>
+          BMI :
+          <button mat-button>{{userDetails.bmi}}</button>
+        </div>
+      </mat-list-item>
+      <mat-list-item>
+        <div matLine>
+          BMI Result :
+          <button mat-button>{{userDetails.bmiResult}}</button>
+        </div>
+      </mat-list-item>
+      <mat-list-item>
+        <div matLine>
+          Trainer Require :
+          <button mat-button>{{userDetails.requireTrainer}}</button>
+        </div>
+      </mat-list-item>
+      <mat-list-item>
+        <div matLine>
+          Goals :
+          <button mat-button><mat-chip-listbox>
+              <ng-container *ngFor="let row of userDetails.important">
+                <mat-chip-option selected>{{row}}</mat-chip-option>
+              </ng-container>
+            </mat-chip-listbox></button>
+
+        </div>
+      </mat-list-item>
+    </mat-list>
+  </mat-card-content>
+</mat-card>

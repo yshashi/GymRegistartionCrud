@@ -1,0 +1,340 @@
+{
+  "registered": [
+    {
+      "firstName": "SashiKumar",
+      "lastName": "Yadav",
+      "email": "yshashi30@gmail.com",
+      "mobile": 9930543857,
+      "weight": 72,
+      "height": 1.9,
+      "bmi": 21,
+      "bmiResult": "Good",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-18T16:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "John@gmail.com",
+      "mobile": 8989767656,
+      "weight": 76,
+      "height": 1.9,
+      "bmi": 21.05263157894737,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-20T16:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Harish",
+      "lastName": "Maradana",
+      "email": "harish@gmail.com",
+      "mobile": 98987676,
+      "weight": 60,
+      "height": 1.9,
+      "bmi": 16.62049861495845,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-05T16:00:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Sachin",
+      "lastName": "Singh",
+      "email": "sachin@gmail.com",
+      "mobile": 87876765,
+      "weight": 50,
+      "height": 1.64,
+      "bmi": 18.590124925639504,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-12T16:00:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "SashiKumar",
+      "lastName": "Yadav",
+      "email": "yshashi30@gmail.com",
+      "mobile": 9930543857,
+      "weight": 72,
+      "height": 1.9,
+      "bmi": 21,
+      "bmiResult": "Good",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-18T16:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "John@gmail.com",
+      "mobile": 8989767656,
+      "weight": 76,
+      "height": 1.9,
+      "bmi": 21.05263157894737,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-20T16:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Harish",
+      "lastName": "Manle",
+      "email": "harish@gmail.com",
+      "mobile": 98987676,
+      "weight": 60,
+      "height": 1.9,
+      "bmi": 16.62049861495845,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-05T16:00:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Sachin",
+      "lastName": "Singh",
+      "email": "sachin@gmail.com",
+      "mobile": 87876765,
+      "weight": 50,
+      "height": 1.64,
+      "bmi": 18.590124925639504,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-12T16:00:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "SashiKumar",
+      "lastName": "Yadav",
+      "email": "yshashi30@gmail.com",
+      "mobile": 9930543857,
+      "weight": 72,
+      "height": 1.9,
+      "bmi": 21,
+      "bmiResult": "Good",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-18T16:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "John@gmail.com",
+      "mobile": 8989767656,
+      "weight": 76,
+      "height": 1.9,
+      "bmi": 21.05263157894737,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-20T16:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Harish",
+      "lastName": "Manle",
+      "email": "harish@gmail.com",
+      "mobile": 98987676,
+      "weight": 60,
+      "height": 1.9,
+      "bmi": 16.62049861495845,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-05T16:00:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Sachin",
+      "lastName": "Singh",
+      "email": "sachin@gmail.com",
+      "mobile": 87876765,
+      "weight": 50,
+      "height": 1.64,
+      "bmi": 18.590124925639504,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-12T16:00:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "SashiKumar",
+      "lastName": "Yadav",
+      "email": "yshashi30@gmail.com",
+      "mobile": 9930543857,
+      "weight": 72,
+      "height": 1.9,
+      "bmi": 21,
+      "bmiResult": "Good",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-18T16:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "John@gmail.com",
+      "mobile": 8989767656,
+      "weight": 76,
+      "height": 1.9,
+      "bmi": 21.05263157894737,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-20T16:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Harish",
+      "lastName": "Manle",
+      "email": "harish@gmail.com",
+      "mobile": 98987676,
+      "weight": 60,
+      "height": 1.9,
+      "bmi": 16.62049861495845,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-05T16:00:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Sachin",
+      "lastName": "Singh",
+      "email": "sachin@gmail.com",
+      "mobile": 87876765,
+      "weight": 50,
+      "height": 1.64,
+      "bmi": 18.590124925639504,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-12T16:00:00.000Z",
+      "id": 4
+    }
+  ]
+}
