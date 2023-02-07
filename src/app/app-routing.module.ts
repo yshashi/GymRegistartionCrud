@@ -5,7 +5,7 @@ import { RegistrationListComponent } from './registration-list/registration-list
 import { UserDetailComponent } from './user-detail/user-detail.component';
 
 const routes: Routes = [
-  { path: '', pathMatch: 'full', redirectTo: 'create' },
+  { path: '', pathMatch: 'full', redirectTo: 'register' },
   { path: 'register', component: CreateRegistrationComponent },
   { path: 'update/:id', component: CreateRegistrationComponent },
   { path: 'detail/:id', component: UserDetailComponent },
